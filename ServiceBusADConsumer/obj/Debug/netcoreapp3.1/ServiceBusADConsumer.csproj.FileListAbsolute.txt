@@ -1,0 +1,3 @@
+C:\Users\Pichau\source\repos\ServiceBusADConsumer\ServiceBusADConsumer\obj\Debug\netcoreapp3.1\ServiceBusADConsumer.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\ServiceBusADConsumer\ServiceBusADConsumer\obj\Debug\netcoreapp3.1\ServiceBusADConsumer.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\ServiceBusADConsumer\ServiceBusADConsumer\obj\Debug\netcoreapp3.1\ServiceBusADConsumer.csproj.CoreCompileInputs.cache
